@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing 2D game for my Final Year Project<br>I'm looking to collaborate on developing Mobile Apps<br>I'm currently learning Data Analyst Course like exploring power BI, practicing Python & SQL
+I'm currently working on developing 2D game for my Final Year Project<br>I'm looking to collaborate on developing Mobile Apps<br>I'm currently participating Data Analyst Course like exploring power BI, practicing Python & SQL
 
 
 # 💻 Tech Stack:
